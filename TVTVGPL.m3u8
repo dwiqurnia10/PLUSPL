@@ -1671,3 +1671,57 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTINF:-1 tvg-id="6" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1qCnQZ6qCThZlWHZS_G01oE3uCL4APKVA4Ch0Z2hItWvGtmZe0WM2PyIjOM1MZ-QVPXpjwWdvyMue-Ez3A3Nu9JllRnDlrur7RvV-IHpRJNwGN-KUAibOnaBLSolqdCA6cEBdpcYBnuAWIoQvX2H43uUYMLUD5pyZMrRKl_e75w6A6YtFOM_D0-OpPG0R/s700/WARNER%20TV.png" group-title="HBO",WARNER TV
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+
+
+##################################### DIGITAL #####################################
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL | INDONESIA DIGITAL",SCTV HD
+http://103.170.33.11:9981/stream/channelid/177596259?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL | INDONESIA DIGITAL",INDOSIAR HD
+http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL | INDONESIA DIGITAL",TRANS TV HD
+http://103.170.33.11:9981/stream/channelid/479667605?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL | INDONESIA DIGITAL",TRANS 7 HD
+http://103.170.33.11:9981/stream/channelid/602743647?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL | INDONESIA DIGITAL",MOJI HD
+http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s"&s" group-title="CHANNEL | INDONESIA DIGITAL",MENTARI HD
+http://103.170.33.11:9981/stream/channelid/517879230?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",ANTV HD
+http://103.170.33.11:9981/stream/channelid/580266225?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",TVONE HD
+http://103.170.33.11:9981/stream/channelid/1752496345?profile=pass
+          
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",VTV HD
+http://103.170.33.11:9981/stream/channelid/548841127?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",RTV HD
+http://103.170.33.11:9981/stream/channelid/97833158?profile=pas
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",METRO TV HD
+http://103.170.33.11:9981/stream/channelid/1929327430?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",GARUDA TV
+http://103.170.33.11:9981/stream/channelid/745960124?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",NUSANTARA TV
+http://103.170.33.11:9981/stream/channelid/133753?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",BN CHANNEL - MDTV
+http://103.170.33.11:9981/stream/channelid/1414401938?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",CIPTA TV
+http://103.170.33.11:9981/stream/channelid/1723433589?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",RADIO TVRI 2 TEST
+http://103.170.33.11:9981/stream/channelid/248989283?profile=pass
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4J6kj0AHhelM5xftO6Plrd5YYe8UHdgkRfQ&s" group-title="CHANNEL | INDONESIA DIGITAL",RADIO TVRI 1 TEST
+http://103.170.33.11:9981/stream/channelid/2028064150?profile=pass
