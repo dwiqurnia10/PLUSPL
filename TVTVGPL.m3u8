@@ -1651,14 +1651,23 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/lifetime/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/tlc/manifest.mpd
 
 
-##################################### DENS TV #####################################
+##################################### HBO #####################################
 
 
-#EXTINF:-1 group-title="DENS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtRvt4IelbAXdN3vBA2lDevxJ558dGAzRiMl7QMRR5SL23HL4xm_uGK_2qXoRLWH_RCEMISME9RmwsWcWdFLsMUi4M-qHgt12Hq632JlHoOJtp4SOZ7f9PdDwluQIp6IhANuZIvS911usKvEzbb2iNYc4LwhTKWpNpY6SbeKMKvPdwg4S7EjxjB-p-2h5x/s700/join.png",! 01 JOIN GROUP
-https://dl.dropboxusercontent.com/scl/fi/7nj8mjl5qp3wcq3ajjczi/JOIN-GROUP.mp4?rlkey=89amkh45gp8mnszaib9myxztk&st=bczd2isi&dl=0
+#EXTINF:-1 tvg-id="1" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkI-QnpmtNsoMwaZ2zjOtNsiG7mXj9QOmeTGiUmffF0m_TTfXH_DTtm0ZwMmpqxK_beVkerFi6LtTo6_pGSOqe84M2kDol7YDGrVN-hmYygFHWCCA6ojHUvnkv0GyaLnDnZvizDJoWBj05T9J4Wc7d6CIgXdufYm6pjlP7l66hcIQqz4HCosx4-I0lzvOy/s700/HBO%20HD.png" group-title="HBO",HBO
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
-#EXTINF:-1 group-title="DENS TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4nIE78r6ZNqLJOGsnS897fBpl4mRMdd_-0l4JbkNVCNXlBB0rKzp5vLYQzbEyOLQdiklNdJKLZ4JsC4N5r1unTkw_Z6lvB8kLIPC__3xAqAuqPTrfUetV70jM52wXHC_PO-2Wgzd42Ve9G6aXZkEW5ImgYMmZ0Q79zfdZOsbCJjTY8i4aLb4CzOl8O70G/s700/donasi.png",! 02 TRAKTIR NGOPI
-https://dl.dropboxusercontent.com/scl/fi/4eu32f7hbiijzgmm9rruz/DONASI-DANA.mp4?rlkey=c7qkkevrajcrxvynvp1g495ow&st=fd2tawjh&dl=0
+#EXTINF:-1 tvg-id="2" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqbfolHm9YpbIjQSdPyBc61RhQ7rZRt-ffhIoMDgEZ5RzM2k3J3oR8ZRHqV4FAw17JSQbCCZNPCU_MEwEgBATVM9d70YIve1fnJu0qZ2sWnStRa4pOnXi2Uola5fhrl8OnD3qnLaS77kHrHRob0DQ72fXM1VrG1zFShx__UakYhJObrtpENVCywnCv-g4b/s700/HBO%20HITS.png" group-title="HBO",HBO HITS
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
-#EXTINF:-1 tvg-id="6" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5WI1zwFD5QQllmY40Don7HGxohmRCOGkxrPFVBC6trTtyO5cTnPSV4jeH9SeCfw7E3qB5XDtk4fqb9eDZeU7l8q_phqw_p7ezv-jkdwv4cFQPcgqAfDSF4c2wXbMzbSFOHM869h92Jmx_Iw77Akrm_pY9cgqGGIOFYhX9tC19XPRXuN4f-JheICGsNJhj/s700/METRO%20TV.png" group-title="DENS TV", METRO TV
-http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbcx1d55B4tPsl16xxXwGZ29O9DdNh1yzdyTBhi9zZl-oXFhz3j_1gvuo2vwJH5MHAE6VMqrW4RJqDa-BIJY2sDPyUISLbO4Y9u1B6pV2Alow0VNazhppLKfg7sbaG4_BqaO_NhGbJ-tkhWi2XhEPTsIXN4rG1E4RW7OIO3r1jv2j7KUMwgUZDTwUOIzYg/s700/HBO%20FAMILY.png" group-title="HBO",HBO FAMILY
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTINF:-1 tvg-id="4" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsKgNN_vixF2wx0mNB4-3tqm7f-Bt18i208C7ZfvczosBrAzKfMuzS2Ua6k64H7zUyEwHPhjgov-QnTVqipQmjMqZgkA7ZpgXaGk8YCJYgu-w4tTp683t_OK9lValfeU_T5bgHtS_Ay84b4fBcr7T3fg5QbxE7MxKWD901wEl4P3baIqU-_s0aAvnvvyqM/s700/HBO%20SIGNATURE.png" group-title="HBO",HBO SIGNATURE
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+
+#EXTINF:-1 tvg-id="5" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzjgvIIQKQiVAnbTBFd4WRMJ8Hp831ngGwJ6fkMvTV9Ctxy0iaLYWbnJeP4uxntytGI1kFZGiti-SMOEvGlAxy_2o0pcU_NdCr0elKrR6R-4BpT4MEFSh3AxkpEKvsBlCamLIxQk1NfTziREdEiN3oPOXLzBZTSGRy86UOEzUXYSt0Zq2fk4muQpcdiehQ/s700/CINEMAX.png" group-title="HBO",CINEMAX
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+
+#EXTINF:-1 tvg-id="6" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1qCnQZ6qCThZlWHZS_G01oE3uCL4APKVA4Ch0Z2hItWvGtmZe0WM2PyIjOM1MZ-QVPXpjwWdvyMue-Ez3A3Nu9JllRnDlrur7RvV-IHpRJNwGN-KUAibOnaBLSolqdCA6cEBdpcYBnuAWIoQvX2H43uUYMLUD5pyZMrRKl_e75w6A6YtFOM_D0-OpPG0R/s700/WARNER%20TV.png" group-title="HBO",WARNER TV
+https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
