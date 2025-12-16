@@ -51,7 +51,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
 https://cdn10jtedge.indihometv.com/atm/DASH/JAK_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5WI1zwFD5QQllmY40Don7HGxohmRCOGkxrPFVBC6trTtyO5cTnPSV4jeH9SeCfw7E3qB5XDtk4fqb9eDZeU7l8q_phqw_p7ezv-jkdwv4cFQPcgqAfDSF4c2wXbMzbSFOHM869h92Jmx_Iw77Akrm_pY9cgqGGIOFYhX9tC19XPRXuN4f-JheICGsNJhj/s700/METRO%20TV.png" group-title="All Channel", METRO TV
-https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
+http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxTKuPVKXn_RBQ5ebV179yuSLUL_U3NWSo80n5SjEF420QzmQhyQZlz1fz_lOjIOLc0MXZfSnzUYddjzhGYy6WaoJm99hV2YZVmAd26zLuq65PwusxbnxUDR55FcxjKvNuOYMdz00HQGcWvmNt-5o9SK9bPynzFnA8l0CrZDlgxxK19tWIzKQm5hpwfWb3/s700/TVONE.png" group-title="All Channel", TVONE
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/tvone/manifest.mpd
@@ -163,10 +163,6 @@ https://wahyu1ptv.pages.dev/Moji-HD.m3u8
 
 #EXTINF:-1 tvg-id="--" group-title="All Channel" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0NxilsmUlciSTbdIyyXY5rhPb7v8GZLUVVmITTCxXcV-9LWRWyOJQx9AYFZO4NMtUEcukWwggpXJQAd7unLvXMrqavGEWcJDWpdkXXgrjFP6OmdkXj2oEf3OBrGWvc6zjb5TxTnZkYoADUfLd0lrqLwi3z0tV8bbmT2XFT5nmj1v9aRxlUQNuMy2LO3gP/s700/ANTV.png", ANTV
 https://wahyu1ptv.pages.dev/AnTV-HD.m3u8
-
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4weOtnZPpiE6524HB0BQX2t3lUVA-Zr0xZkNlMrgd3PdiU9gBBg-FfbcC7umtAUmQsPUVf3iW7n3t5lyjxfKhGTjZsiiqSxD62KYmFW5VrNB-13nZ0GFNXmLwn-cEyD78RiKpLhbGmz-MJ84fOoMGZWZu-AgDzaYCQ7RX64rJjhAx2G85mQLNNXSWodpq/s700/VIVA%20TV.png" group-title="All Channel",VIVA TV
-https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
