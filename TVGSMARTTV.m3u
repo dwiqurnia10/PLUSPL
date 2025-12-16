@@ -634,7 +634,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000128/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 4; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="TVRI" tvg-name="Vision +" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="VISION+", TVRI
+#EXTINF:-1 tvg-id="TVRI" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifeILJdou1pyvJGRJ-iPw8oUdtEwZPP4JdJBFCb98Tp0x0pZhS2vsVqIQx1sfw81CVqTnvoUxKeJXU4CDn1Gjfvb4a0R5HZ4p1osKFDxOophyphenhyphenu7OHXuxRf_4VGeaEZ-2Tc3dPzUXRcFxNc8cwgqRSBxM51cTSjO9UuUB6VX15U29O-K7FqktbAKLx7Qn34/s700/TVRI.png" group-title="VISION+", TVRI
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000010/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -667,7 +667,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000068/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="DMI Tv" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/838/437838-SNAPSHOT-l.png" group-title="VISION+",DMI TV
+#EXTINF:-1 tvg-id="DMI Tv" tvg-logo="https://www.visionplus.id/images/repository/838/437838-SNAPSHOT-l.png" group-title="VISION+",DMI TV
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000002/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -677,7 +677,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000130/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Food Travel" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/157/438157-SNAPSHOT-l.png" group-title="VISION+", FOOD TRAVEL
+#EXTINF:-1 tvg-id="Food Travel" tvg-logo="https://www.visionplus.id/images/repository/157/438157-SNAPSHOT-l.png" group-title="VISION+", FOOD TRAVEL
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000003/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -695,7 +695,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000151/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Cbeebies" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/132/493132-SNAPSHOT-l.jpg" group-title="VISION+", CBEEBIES
+#EXTINF:-1 tvg-id="Cbeebies" tvg-logo="https://www.visionplus.id/images/repository/132/493132-SNAPSHOT-l.jpg" group-title="VISION+", CBEEBIES
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000006/1024.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="VISION+", MOONBUG
@@ -755,7 +755,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000028/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="VISION+", THRILL
+#EXTINF:-1 tvg-id="Thrill" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="VISION+", THRILL
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000001/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -780,12 +780,12 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="Tv5 Monde" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/167/438167-SNAPSHOT-l.png" group-title="VISION+", TV5 MONDE
+#EXTINF:-1 tvg-id="Tv5 Monde" tvg-logo="https://www.visionplus.id/images/repository/167/438167-SNAPSHOT-l.png" group-title="VISION+", TV5 MONDE
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000005/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Sea Go" tvg-name="Vision +" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="VISION+",SEA GO
+#EXTINF:-1 tvg-id="Sea Go" tvg-logo="https://www.visionplus.id/images/repository/272/468272-SNAPSHOT-m.png" group-title="VISION+",SEA GO
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000007/1024.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
