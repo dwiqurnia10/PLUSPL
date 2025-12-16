@@ -101,6 +101,9 @@ https://wahyu1ptv.pages.dev/DaznSerieA-HD.m3u8
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png" group-title="All Channel", SKY SPORT MOTOGP
 https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEcLxdikOYDZGVDY5nPFYMEe9yKVce-2YGBn-qNGWnTzv35rgVBbI1jsL9HWjm4l6oTT5XzfnJntzC5cDYIKLFnk9E7banaxpnBVgczoQZLwbkI6xOwCyYYZzpeSO5rV1fQbeHjwwMAzn0xkzSVQ6KQGgv735_LrMl1MCgWRhGXx7WU_KKzGNbEP4vHtvY/s700/SKY%20SPORTS.png" group-title="All Channel", SKY SPORT F1
+https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
+
 #EXTINF:-1 tvg-logo=""  group-title="All Channel", ELEVEN SPORT 1
 https://wahyu1ptv.pages.dev/ElevenSports1-HD.m3u8
 
@@ -136,6 +139,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhadGt0ItTACfax6Pc7kmtsCVSczaZPxkypr6xsXYlQmqXhICL2U_TUwQX9G2MmBl6D3mSkV-p0628saF6zOVZdws_bh2oIWrkHgbsW5zVPuIQeCxZ_OhsaZLQNiGnc5yrpNcQ9QpB7n94nBAPEF2G6L1Pb2jZm12RN_oE8q7-whcl6YNBObvSb6nWn_B6o/s700/REAL%20MADRID.png" group-title="All Channel", REAL MADRID TV
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
 
+#EXTVLCOPT:http-referrer=https://pulse1.zalmora.cfd/000/
+#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSkNMMOI9fSPWxvbSlIW9orLAU0NYCBpjIIK47fZlULD1xgxTLmIakgg8CV3r327dRMuET8R76HREY2yD7l6vp2ESzPFxQlGKfBsvL5Pcq0zWn_tXbEeKlCHtWm3bnBOv545kkdxldFwCfikjLYPVZyLsIg6Wt5K3evvKetmF63_YSQlAtVsRXrZ-4RlKo/s700/DIGI%20SPORT%201.png" group-title="All Channel", DIGI SPORT 1
+https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
+
+#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
+#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib5DC97NE2rggHu2LuaZeWCnADTXTWokA9xZc3ia4-CWeTDR2EjueX4EzWSoJHXR4N0BIsewh4dIruSGbr51M8oflaaNaSJKrxju-eUd5zZGt1pCexGYWOl-ujJfUCYmEm8q5CwsRatvmWG2llTQ4kax06avut8mDN9uKIx00QXiAo-TBBFCreseKW00uj/s700/DIGI%20SPORT%204.png" group-title="All Channel", DIGI SPORT 4
+https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilkiU8Z0yjzYvjerXA1jRCNesDhmIfijJSUqruOwZCtH2Z-hYCP94GWOFHuRX41QjpUIFAW2snI9xcx_S038dRhb5_2LkzmMGKRPMzMuMofmmmhyphenhyphenDFjJADZggHk_v_Drq5l72bylTud67IHgIfJLav2Xt1HF4XJhGR2ISphv19AszEquqRzUlZLAveGtWg/s700/PRIMA%20SPORT%204.png" group-title="All Channel", PRIMA SPORT 4 
+https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e1nKstPsLGQ/hq720.jpg?sqp=-oaymwExCK4FEIIDSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYFCBUKH8wDw==&rs=AOn4CLAcNNE9i-PEp76ochTr2G2BGRJWAg" group-title="All Channel", MOJI TV
 https://github.com/hendroagung2904/Super-Dooper-Smart/raw/refs/heads/main/MojiTV.m3u8
 
@@ -152,51 +168,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_HD
 
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
 #EXTINF:-1 tvg-id="tvN Movies HD - [Channel 415].id"  group-title="All Channel" group-logo="https://raw.githubusercontent.com/rafkichanel/my-iptv-playlist/refs/heads/master/IMG_20250807_103611.jpg" tvg-logo="https://raw.githubusercontent.com/rafkichanel/my-iptv-playlist/refs/heads/master/IMG_20250807_103611.jpg",tvN Movies HD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h21/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=tvN_Movies_HD
-
-#EXTINF:-1  group-title="All Channel", DaznLaliga
-https://wahyu1ptv.pages.dev/DaznLaliga1-HD.m3u8
-
-#EXTINF:-1 tvg-id="digisport 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/svrprs1436105433.png" group-title="All Channel", DIGI SPORT 1
-#EXTVLCOPT:http-referrer=https://pulse1.zalmora.cfd/000/
-https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
-
-#EXTINF:-1 tvg-id="digisport 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvGnIT6SUoNFwXVGsutSz5qMDMhdXuFr4Kuw&s" group-title="All Channel", DIGI SPORT 2
-#EXTVLCOPT:http-referrer=https://ultra2.falconx.cfd/000/
-https://ultra2.falconx.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
-
-#EXTINF:-1 tvg-id="digisport 3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/utuqys1454953276.png" group-title="All Channel", DIGI SPORT 3
-#EXTVLCOPT:http-referrer=https://ultra2.falconx.cfd/000/
-https://ultra2.falconx.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
-
-#EXTINF:-1 tvg-id="digisport 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9nB--KtZACLfS651nCzvhAXz_zEm05PaCW3WTATodgXMxK80Sxg3Atik&s=10" group-title="All Channel", DIGI SPORT 4
-#EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
-https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Prima_Sport_3_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050332" group-title="All Channel", Prima Sport 3 
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_4_new.svg/revision/latest/scale-to-width-down/150?cb=20230126050947" group-title="All Channel", Prima Sport 4 
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportF1-HD.png" group-title="All Channel", SkySportF1
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportPL.png" group-title="All Channel", SkySportsPremiereLeague
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/SkySportPL-HD.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SkySportsLaliga.png" group-title="All Channel", SkySportsLaliga
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/SkySportLaliga-HD.m3u8
+https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 
 
